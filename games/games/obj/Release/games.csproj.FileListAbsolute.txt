@@ -1,0 +1,10 @@
+C:\Users\buray\source\repos\games\games\bin\Release\games.exe.config
+C:\Users\buray\source\repos\games\games\bin\Release\games.exe
+C:\Users\buray\source\repos\games\games\bin\Release\games.pdb
+C:\Users\buray\source\repos\games\games\obj\Release\games.csproj.AssemblyReference.cache
+C:\Users\buray\source\repos\games\games\obj\Release\games.Form1.resources
+C:\Users\buray\source\repos\games\games\obj\Release\games.Properties.Resources.resources
+C:\Users\buray\source\repos\games\games\obj\Release\games.csproj.GenerateResource.cache
+C:\Users\buray\source\repos\games\games\obj\Release\games.csproj.CoreCompileInputs.cache
+C:\Users\buray\source\repos\games\games\obj\Release\games.exe
+C:\Users\buray\source\repos\games\games\obj\Release\games.pdb
